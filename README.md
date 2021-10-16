@@ -18,12 +18,9 @@
 
 ## Makefile
 -  A Makefile runs “recipes” via the make system, which comes with Unix-based operating systems. Therefore, a Makefile is an ideal choice to simplify the steps involved in continuous integration.
-  `Make install` 
-  -This step installs software via the make install command
-  `Make int`
-  - This step checks for any syntax eror with the make lint command
-  - `Make test`
-  - This step runs test viis the make test command. 
+  -`Make install` - This step installs software via the make install command
+  -`Make int` - This step checks for any syntax eror with the make lint command
+  - `Make test` - This step runs test viis the make test command. 
 
 ## 🤝 Support
 
