@@ -1,19 +1,13 @@
-
-
-
-
-
-
 ## Implementation of continous integration pipeline with the help of Github Action
 
-
+- [Repo](https://github.com/Amit32624/github_actions_demo> "<github_actions_demo> Repo")
 - The foundation of DevOps is continuous integration. Without automated testing, there is no way to move forward with DevOps.
 - One of the most straightforward ways to implement continuous integration for the projects is with GitHub Action.
 
 - In this example, I want to check a specific version of Python that runs on Azure. The continuous integration steps are trivial to implement Makefile:
   
   
-- [Repo](https://github.com/Amit32624/github_actions_demo> "<github_actions_demo> Repo")
+
 
 
 ## Makefile
