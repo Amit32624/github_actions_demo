@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"><Github_actions_demo></h1>
+## Github Actions Demo
 
 <p align="center"><Implementation of continous integration pipeline with the help of Github Action></p>
 
