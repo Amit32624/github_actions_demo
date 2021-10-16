@@ -24,8 +24,19 @@
 - `Make int` - This step checks for any syntax eror with the make lint command
 - `Make test` - This step runs test viis the make test command. 
 
+ 
+## requirements.txt
+- A requirements.txt file is used to install any dependencies with the help of 'pip' installation command.
+
+## Source code and tests
+- The final portion is to add a source code file and test a file hello.py
+- The test file is created by using the pytest frameworl. The script should be in the same folder as the source code.
+  
+  
+- These four files: Makefile, requirements.txt, hello.py, and test_hello.py are all that is needed to start the continuous integration pipeline except for creating a local Python virtual environment.
 ## 🤝 Support
 
+  
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
