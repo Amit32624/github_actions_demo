@@ -4,11 +4,9 @@
 
 
 
-## Github Actions Demo
+## Implementation of continous integration pipeline with the help of Github Action
 
-<p align="center"><Implementation of continous integration pipeline with the help of Github Action></p>
 
-## Links
 - The foundation of DevOps is continuous integration. Without automated testing, there is no way to move forward with DevOps.
 - One of the most straightforward ways to implement continuous integration for the projects is with GitHub Action.
 
